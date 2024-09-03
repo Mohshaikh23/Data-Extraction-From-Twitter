@@ -59,7 +59,7 @@ pip install pandas beautifulsoup4 selenium
 
    After the script completes, a CSV file named `Fetched_Data.csv` will be generated in the root directory containing the scraped data.
 
-   ![Image](Screenshot 2024-09-04 002651.png)
+   ![Screenshot Image]("ss.png")
 
 ## Notes
 
